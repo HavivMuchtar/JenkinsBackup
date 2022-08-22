@@ -1,0 +1,23 @@
+Started on Aug 22, 2022, 10:24:37 AM
+Started by event from 140.82.115.91 ⇒ http://35.163.61.111:8080/github-webhook/ on Mon Aug 22 10:24:37 UTC 2022
+Using strategy: Default
+[poll] Last Built Revision: Revision 80ded1201f7483b065efc5287037bb3bed3d1fe4 (origin/main)
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.30.2'
+ > git ls-remote -h -- https://github.com/HavivMuchtar/Jenkins.git # timeout=10
+Found 1 remote heads on https://github.com/HavivMuchtar/Jenkins.git
+[poll] Latest remote head revision on refs/heads/main is: 09bf77416a0c1beee323fd148c85849cce137e56
+Using strategy: Default
+[poll] Last Built Revision: Revision d092167dfc366f999ddde19f7292ca33dd670562 (refs/remotes/origin/main)
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.30.2'
+ > git ls-remote -h -- https://github.com/Elad0109/simple-webapp-nodejs-.git # timeout=10
+Found 1 remote heads on https://github.com/Elad0109/simple-webapp-nodejs-.git
+[poll] Latest remote head revision on refs/heads/main is: d092167dfc366f999ddde19f7292ca33dd670562 - already built by 1
+Done. Took 0.65 sec
+Changes found

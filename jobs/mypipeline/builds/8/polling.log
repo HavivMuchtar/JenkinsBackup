@@ -1,0 +1,22 @@
+Started on Aug 22, 2022, 8:19:00 AM
+Using strategy: Default
+[poll] Last Built Revision: Revision 1fc7d1dcea9d0644fef129630c41e119d6b34192 (origin/main)
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.30.2'
+ > git ls-remote -h -- https://github.com/HavivMuchtar/Jenkins.git # timeout=10
+Found 1 remote heads on https://github.com/HavivMuchtar/Jenkins.git
+[poll] Latest remote head revision on refs/heads/main is: 819316bc3b9bd434513308ec637313ff55ee578c
+Using strategy: Default
+[poll] Last Built Revision: Revision cf07a10334ba29ae9ba22e6e2c2988a44829f41d (refs/remotes/origin/main)
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.30.2'
+ > git ls-remote -h -- https://github.com/Elad0109/simple-webapp-nodejs-.git # timeout=10
+Found 1 remote heads on https://github.com/Elad0109/simple-webapp-nodejs-.git
+[poll] Latest remote head revision on refs/heads/main is: cf07a10334ba29ae9ba22e6e2c2988a44829f41d - already built by 7
+Done. Took 0.68 sec
+Changes found

@@ -1,0 +1,9 @@
+commit 67cdda832ee6d8bb941a1dc898e9dccb98dee83e
+tree 1f8de2f1234dd1be7f2f982e584db3bdab88f2aa
+parent 98935c181131f9cb05b4c60e41fe2dc19b05106a
+author HavivMuchtar <avivamram@gmail.com> 2022-08-22 13:54:31 +0300
+committer GitHub <noreply@github.com> 2022-08-22 13:54:31 +0300
+
+    Create Dockerfile
+
+:000000 100644 0000000000000000000000000000000000000000 fbf41a246640e56f55c57c4d8ed0802a4585bb6a A	Dockerfile

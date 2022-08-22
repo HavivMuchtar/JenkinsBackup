@@ -1,0 +1,9 @@
+commit 819316bc3b9bd434513308ec637313ff55ee578c
+tree 622c23ce79dd736472d4a7d5b450f2a548942a45
+parent 1fc7d1dcea9d0644fef129630c41e119d6b34192
+author HavivMuchtar <avivamram@gmail.com> 2022-08-22 11:18:12 +0300
+committer GitHub <noreply@github.com> 2022-08-22 11:18:12 +0300
+
+    Update Jenkinsfile
+
+:100644 100644 efc8dc98ca1b9567df730eb0fb4be461e1aa5e8a 587152d76d73d8255604d126174355342493a1cd M	Jenkinsfile
